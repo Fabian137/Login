@@ -1,0 +1,16 @@
+body{
+  background-image: url(https://wallpapersite.com/images/pages/pic_w/4172.jpg);
+  width: auto;
+height: auto;
+}
+.division1{
+  margin:50px 400px 100px 500px;
+  padding: 100px 20px 200px 50px;
+}
+.btn{
+  background-color: transparent;
+  margin:50px 150px 100px 100px;
+}
+.material-icons {
+  color:white;
+}
