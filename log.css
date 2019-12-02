@@ -3,12 +3,12 @@ body{
   width: auto;
 height: auto;
 }
-.card{
+.divdiv{
 background-color: transparent;
 margin: 27px;
 }
-.card-title{
-  color: white;
+.active{
+  background-color: yellow;
 }
 .btn{
   background-color: transparent;
